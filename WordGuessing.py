@@ -6,4 +6,5 @@ def guess():
 url = "google.com"
 
 guess()
+print("Testing the github")
 guess()
